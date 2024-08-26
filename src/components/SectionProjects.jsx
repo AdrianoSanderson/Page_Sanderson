@@ -21,7 +21,7 @@ export default function () {
                 </div>
 
                 <div className="flex flex-col items-center border-solid border-2 border-sky-600 w-80 h-96 m-4 rounded-xl lg:w-80 delay-75 hover:bg-sky-600">
-                    <h1 className="text-3xl	text-slate-200 max-sm:text-2xl max-sm:text-center">Projeto 1</h1>
+                    <h1 className="text-3xl	text-slate-200 max-sm:text-2xl max-sm:text-center">Projeto 2</h1>
 
                     <p className="text-base m-3 text-justify max-sm:text-sm text-slate-200">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel blanditiis voluptate iste fuga minus qui iusto. Quaerat totam perspiciatis, quae quisquam  </p>
 
@@ -35,7 +35,7 @@ export default function () {
                 </div>
 
                 <div className="flex flex-col items-center border-solid border-2 border-sky-600 w-80 h-96 m-4 rounded-xl lg:w-80 delay-75 hover:bg-sky-600">
-                    <h1 className="text-3xl	text-slate-200 max-sm:text-2xl max-sm:text-center">Projeto 1</h1>
+                    <h1 className="text-3xl	text-slate-200 max-sm:text-2xl max-sm:text-center">Projeto 3</h1>
 
                     <p className="text-base m-3 text-justify max-sm:text-sm text-slate-200">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel blanditiis voluptate iste fuga minus qui iusto. Quaerat totam perspiciatis, quae quisquam  </p>
 
