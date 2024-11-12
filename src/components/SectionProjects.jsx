@@ -2,7 +2,7 @@ import imgProjects from '../assets/images/embreve.png'
 
 export default function () {
     return (
-        <section className="font-medium bg-neutral-800 flex flex-col items-center">
+        <section id="projects" className="font-medium bg-neutral-800 flex flex-col items-center">
             <h1 className="mt-7 text-center text-slate-200 text-4xl max-sm:text-2xl mb-4">Projetos</h1>
 
             <div className="flex justify-center flex-col mb-7 sm:flex-row sm:flex-wrap ">
