@@ -9,9 +9,6 @@ export default function Links({ togle }) {
             className="hover:text-sky-600 cursor-pointer" onClick={togle}>Habilidades</Link>
 
             <Link to="projects" smooth="true" duration={1000} offset={-49} className="hover:text-sky-600 cursor-pointer" onClick={togle}>Projetos</Link>
-
-
-            <a className="hover:text-sky-600" href="/contato" onClick={togle}>Contato</a>
         </>
 
     )
