@@ -8,7 +8,6 @@ export default function Header() {
         setOpenMenu(!openMenu)
     }
 
-
     return (
         <header className="bg-neutral-900 font-medium text-2xl text-slate-200 flex justify-center w-full fixed">
             <div className="w-11/12">
