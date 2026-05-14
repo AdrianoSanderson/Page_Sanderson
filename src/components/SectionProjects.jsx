@@ -14,7 +14,7 @@ export default function () {
                     <h1 className="text-3xl	text-slate-200 max-sm:text-2xl max-sm:text-center">IR Budgets</h1>
 
                     <p className="text-base m-3 text-justify max-sm:text-sm text-slate-200">
-                        Projeto freelancer para automatizar orçamentos de Imposto de Renda. Stack: Vue, Nuxt e Node/Nest. A solução otimiza a captação de clientes e transforma processos manuais em um fluxo digital ágil e eficiente.
+                        Projeto freelancer para automatizar orçamentos de Imposto de Renda. Stack: Node/Nest, PostgreSQL e Vue/Nuxt. A solução otimiza a captação de clientes e transforma processos manuais em um fluxo ágil e eficiente.
                     </p>
 
                     <img className="mt-2 w-52 h-40" src={irBudgetsImg} alt="img" />

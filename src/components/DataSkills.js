@@ -53,7 +53,7 @@ const dataSkills = [
         img: nest
     },
     {
-        name: "Postgresql",
+        name: "PostgreSQL",
         img: postgresql
     },
     {
