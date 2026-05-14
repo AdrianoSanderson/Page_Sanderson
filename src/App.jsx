@@ -2,6 +2,7 @@ import Header from "./components/Header"
 import SectionHello from "./components/SectionHello"
 import SectionProjects from "./components/SectionProjects"
 import SectionSkills from "./components/SectionSkills"
+import Footer from "./components/Footer"
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <SectionHello />
       <SectionSkills/>
       <SectionProjects/>
+      <Footer />
     </>
   )
 }
