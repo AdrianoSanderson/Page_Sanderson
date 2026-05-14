@@ -1,5 +1,6 @@
 import dataSkills from "./DataSkills"
 
+// eslint-disable-next-line react-refresh/only-export-components, react/display-name
 export default function () {
     return (
         <section id="skills" className="font-medium bg-sky-600 flex flex-col items-center">
